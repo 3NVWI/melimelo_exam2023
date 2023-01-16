@@ -8,4 +8,4 @@ Dans la partie "extras" des iframes, seuls deux personnages m'appartiennent: Mel
 
 Pour les sprites de personnages humains, il s'agit tous de mes propres personnages originaux.
 
-La musique (et l'inspiration principale derrière le style graphique) provient de Yume Nikki! J'ai téléchargé l'audio via le site suivant : https://downloads.khinsider.com/game-soundtracks/album/yume-nikki-unofficial-soundtrack-kikiyama-2004-gamerip# melimelo_exam2023
+La musique (et l'inspiration principale derrière le style graphique) provient de Yume Nikki! J'ai téléchargé l'audio via le site suivant : https://downloads.khinsider.com/game-soundtracks/album/yume-nikki-unofficial-soundtrack-kikiyama-2004-gamerip
